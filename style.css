@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+.maindiv {
+  height: 100vh;
+  background-color: #2e2922;
+  font-family: 'Mooli', sans-serif;
+}
+
+.subdiv {
+  background-color: silver;
+  border-radius: 22px;
+}
+
+.userbtn {
+  background-color: beige;
+  color: darkslategrey;
+}
+
+@media only screen and (max-width: 454px) {
+  .gameimage {
+    height: 110px;
+  }
+}
