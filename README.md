@@ -3,6 +3,8 @@
 
 This is a simple Rock Paper Scissors game made using HTML, CSS, Bootstrap, and JavaScript. It is responsive for all devices and shows the user's score as well as the computer's score. When the user clicks on a button, their selected image and a random image from the computer's choice are displayed. It is then easy to analyze who won. There is also a reset button to reset the scores if needed.
 
+Check out the live website: [Rock Paper Scissor Game](https://aakashgaur03.github.io/Rock_Paper_Scissor_Game/)
+
 # Images
 ![web view](./Images/web-view.png)
 
